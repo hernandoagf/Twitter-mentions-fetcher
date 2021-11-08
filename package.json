@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Hernando Guzman",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.14"
   },
