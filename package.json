@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot to fetch Twitter mentions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Hernando Guzman",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.1.0"
+  }
+}
